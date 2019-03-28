@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort_OP", "BubbleSort_OP\BubbleSort_OP.csproj", "{15B56CA5-BBD1-454F-B30D-5944DE1FFE73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort_OP", "BubbleSort_OP\BubbleSort_OP.csproj", "{15B56CA5-BBD1-454F-B30D-5944DE1FFE73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Player_Tests", "Player_Tests\Player_Tests.csproj", "{811188DE-C172-48F6-8D3F-4A724FD1683B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{15B56CA5-BBD1-454F-B30D-5944DE1FFE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B56CA5-BBD1-454F-B30D-5944DE1FFE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B56CA5-BBD1-454F-B30D-5944DE1FFE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811188DE-C172-48F6-8D3F-4A724FD1683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811188DE-C172-48F6-8D3F-4A724FD1683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811188DE-C172-48F6-8D3F-4A724FD1683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811188DE-C172-48F6-8D3F-4A724FD1683B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
