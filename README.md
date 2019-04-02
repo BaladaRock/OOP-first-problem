@@ -1,1 +1,1 @@
-ce faci? :))
+Baga mare cu programarea mai baietzasule :))
